@@ -1,0 +1,62 @@
+.logo{
+    width: 50px;
+    margin: auto;
+}
+h2{
+    margin-top: 1%;
+    color:#03A9F4;
+}
+.placeholder{
+    color: rgb(224, 220, 220); 
+    text-align: center;
+     border-radius: 100px;
+     padding: 1%;
+      margin: 1%;
+      border: 2px solid rgb(224, 220, 220);
+      box-shadow: rgb(224, 220, 22S);
+}
+.card{
+    background-color: whitesmoke;
+}
+button{
+    border-radius: 100px;
+    width: 50%;
+    margin: 30px;
+    margin-left: 2cm;
+    background-color:#03A9F4;
+    border: 2px solid #03A9F4;
+    box-shadow: #03A9F4;
+}
+a{
+    text-decoration: none;
+     
+
+}
+.root-container{
+    box-shadow: 2px solid rgb(224, 220, 220); 
+
+}
+.footer-container{
+    margin-bottom: 10%;
+    text-align: center;
+}
+.placeholder-2{
+    color: rgb(224, 220, 220); 
+    text-align: center;
+     border-radius: 100px;
+     padding: 1%;
+      margin: 1%;
+      border: 2px solid rgb(224, 220, 220);
+      box-shadow: rgb(224, 220, 22S);
+      width: 7cm;
+}
+.placeholder-3{
+    color: rgb(224, 220, 220); 
+    text-align: center;
+     border-radius: 100px;
+     padding: 1%;
+      margin: 1%;
+      border: 2px solid rgb(224, 220, 220);
+      box-shadow: rgb(224, 220, 22S);
+      width: 7cm;
+}
